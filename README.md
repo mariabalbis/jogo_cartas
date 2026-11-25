@@ -87,4 +87,4 @@ Durante o jogo, cada operação aparece no terminal com uma etiqueta, para acomp
 
 ## 👤 Autor
 
-Seu nome aqui · Seu curso e instituição
+Maria Balbis, Luis Fernando, Nicolas Urban e Ryan Rodrigues · Ciência de dados e IA UniSenai
